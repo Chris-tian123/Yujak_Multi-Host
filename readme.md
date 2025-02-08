@@ -52,7 +52,7 @@ pyfiglet
 To start the hosting system, run:
 
 ```sh
-python bot_host.py
+python host.py
 ```
 
 ### 4. Available Commands
