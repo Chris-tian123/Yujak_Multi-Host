@@ -2,7 +2,7 @@
 
 Welcome to **Yujak Multi-Host**, a powerful and easy-to-use multi-bot hosting system for managing and running multiple bots efficiently. Built with Python, this system allows you to start, stop, restart, and monitor bots from a single console interface.
 
-https://media.discordapp.net/attachments/1239329065404469298/1337898084344004741/image.png?ex=67a91e30&is=67a7ccb0&hm=13411732ad6b115551fa72022526163f057caeccb4aa08d856b3c45fab654a1e&=&format=webp&quality=lossless
+![Image](https://media.discordapp.net/attachments/1239329065404469298/1337898084344004741/image.png?ex=67a91e30&is=67a7ccb0&hm=13411732ad6b115551fa72022526163f057caeccb4aa08d856b3c45fab654a1e&=&format=webp&quality=lossless)
 
 ## Features
 
