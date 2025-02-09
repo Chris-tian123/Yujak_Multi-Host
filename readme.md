@@ -93,3 +93,6 @@ Made by **Chris-tian123**
 
 Enjoy using Yujak Multi-Host! 🚀
 
+## Contact
+
+If you want to collab, contact me on [telegram](https://t.me/Asteral), [discord](https://discord.com/users/915158686723358720) or [email](mailto:asteral.dev@outlook.com)
